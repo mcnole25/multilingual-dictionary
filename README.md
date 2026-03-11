@@ -15,3 +15,7 @@ By using this dictionary as a reference, you'll have access to:
 PLEASE KEEP IN MIND that not all translations are 100% correct.
 
 With words that have multiple meanings, please be wise with this material.
+
+For a pronunciation guide... in Dutch, German & Norwegian, J sounds like a "y". In Spanish, it's an "h".
+
+Dutch has rolled G's while Spanish has rolled R's. Some sounds have no English equivalents.
