@@ -20,6 +20,6 @@ For a pronunciation guide... in Dutch, German & Norwegian, J sounds like a "y". 
 
 Dutch has rolled G's while Spanish has rolled R's. Some sounds have no English equivalents.
 
-Link: https://htmlpreview.github.io/?https://github.com/mcnole25/multilingual-dictionary/blob/master/index.html
-
 As a bonus, I added my favorite number 60 translated into 60 languages. Have fun learning!
+
+My original draughts had 320, 333, 350 words, but now we have 360 so I promise this is the final version.
