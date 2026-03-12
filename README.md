@@ -6,9 +6,9 @@ Supports English, Dutch, German, Norwegian, & Spanish.
 
 By using this dictionary as a reference, you'll have access to:
 
-• 350 words per language, 1750 terms total
+• 360 words per language, 1800 terms total
 
-• ~2y 5mo age proficiency in each language
+• ~2.5y age proficiency in each language
 
 • ~70% words understood, ~A0.4 level CEFR
 
@@ -22,4 +22,4 @@ Dutch has rolled G's while Spanish has rolled R's. Some sounds have no English e
 
 Link: https://htmlpreview.github.io/?https://github.com/mcnole25/multilingual-dictionary/blob/master/index.html
 
-Have fun learning!
+As a bonus, I added my favorite number 60 translated into 60 languages. Have fun learning!
