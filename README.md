@@ -6,11 +6,11 @@ Supports English, Dutch, German, Norwegian, & Spanish.
 
 By using this dictionary as a reference, you'll have access to:
 
-• 360 words per language, 1800 terms total
+• 400 words per language, 2000 terms total
 
 • ~2.5y age proficiency in each language
 
-• ~70% words understood, ~A0.4 level CEFR
+• ~75% words understood, ~A0.5 level CEFR
 
 PLEASE KEEP IN MIND that not all translations are 100% correct.
 
@@ -22,4 +22,4 @@ Dutch has rolled G's while Spanish has rolled R's. Some sounds have no English e
 
 As a bonus, I added my favorite number 60 translated into 60 languages. Have fun learning!
 
-My original draughts had 320, 333, 350 words, but now we have 360 so I promise this is the final version.
+My original draughts had 320, 333, 350, 360 words, but now we have 400 so I promise this is the final version.
